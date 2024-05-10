@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DexAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/topBarBlue</item>
+        <item name="android:textColor">@color/textPrimary</item>
+        <item name="android:windowBackground">@color/backgroundBlue</item>
+    </style>
+
+    <style name="Theme.DexAndroid" parent="Base.Theme.DexAndroid" />
+</resources>
